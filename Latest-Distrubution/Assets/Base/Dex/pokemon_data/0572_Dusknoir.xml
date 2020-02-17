@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Pokemon gameVersion="EoS">
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Dusknoir</Name>
+			<Category>??????????</Category>
+		</English>
+	</Strings>
+	<!--Primary gender entity-->
+	<GenderedEntity>
+		<PokeID>477</PokeID>
+		<Unk31>342</Unk31>
+		<PokedexNumber>477</PokedexNumber>
+		<Unk1>1</Unk1>
+		<EvolutionReq>
+			<PreEvoIndex>388</PreEvoIndex>
+			<Method>3</Method>
+			<Param1>154</Param1>
+			<Param2>1</Param2>
+		</EvolutionReq>
+		<SpriteIndex>424</SpriteIndex>
+		<Gender>1</Gender>
+		<BodySize>1</BodySize>
+		<PrimaryType>14</PrimaryType>
+		<SecondaryType>0</SecondaryType>
+		<MovementType>3</MovementType>
+		<IQGroup>0</IQGroup>
+		<PrimaryAbility>57</PrimaryAbility>
+		<SecondaryAbility>0</SecondaryAbility>
+		<Bitfield>0x30</Bitfield>
+		<ExpYield>0</ExpYield>
+		<RecruitRate1>82</RecruitRate1>
+		<RecruitRate2>82</RecruitRate2>
+		<BaseStats>
+			<HP>80</HP>
+			<Attack>40</Attack>
+			<SpAttack>40</SpAttack>
+			<Defense>35</Defense>
+			<SpDefense>35</SpDefense>
+		</BaseStats>
+		<Weight>153</Weight>
+		<Size>27</Size>
+		<Unk17>0xa</Unk17>
+		<Unk18>0xa</Unk18>
+		<Unk19>0x1</Unk19>
+		<Unk20>0x8</Unk20>
+		<Unk21>0x64</Unk21>
+		<BasePokemonIndex>387</BasePokemonIndex>
+		<ExclusiveItems>
+			<ItemID>0</ItemID>
+			<ItemID>0</ItemID>
+			<ItemID>0</ItemID>
+			<ItemID>1349</ItemID>
+		</ExclusiveItems>
+		<Unk27>0x320</Unk27>
+		<Unk28>0x0</Unk28>
+		<Unk29>0x0</Unk29>
+		<Unk30>0x0</Unk30>
+	</GenderedEntity>
+	<!--Moveset from waza_p.bin-->
+	<Moveset>
+		<!--Learns 0 move(s)-->
+		<LevelUpMoves />
+		<!--Has 0 egg move(s)-->
+		<EggMoves />
+		<!--Can learn 0 HM/TM move(s)-->
+		<HmTmMoves />
+	</Moveset>
+	<!--Moveset from waza_p2.bin-->
+	<Moveset>
+		<!--Learns 0 move(s)-->
+		<LevelUpMoves />
+		<!--Has 0 egg move(s)-->
+		<EggMoves />
+		<!--Can learn 0 HM/TM move(s)-->
+		<HmTmMoves />
+	</Moveset>
+	<!--Stats growth and exp requirements-->
+	<StatsGrowth />
+</Pokemon>

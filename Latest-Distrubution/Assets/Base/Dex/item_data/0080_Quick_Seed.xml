@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Quick Seed</Name>
+			<ShortDescription>Boosts Movement Speed.</ShortDescription>
+			<LongDescription>A food item that boosts the Pokémon's\n[CS:E]Movement Speed[CR] by 1 level. It also\nslightly fills the Pokémon's [CS:E]Belly[CR].</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>30</BuyPrice>
+		<SellPrice>15</SellPrice>
+		<Category>2</Category>
+		<SpriteID>14</SpriteID>
+		<ItemID>80</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xD</Unk1>
+		<Unk2>0x4</Unk2>
+		<Unk3>0xC3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

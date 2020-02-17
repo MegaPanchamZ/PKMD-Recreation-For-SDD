@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Electi-Claw</Name>
+			<ShortDescription>[CS:K]Electivire[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3]\nItem for: [CS:K]Electivire[CR]\nSlightly boosts [CS:E]Attack[CR].\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\n[CS:K]Elekid[CR], [CS:K]Electabuzz[CR], and [CS:K]Electivire[CR].\n[C]\nSwap an [CS:Z]Electi-Claw[CR] and an [LS:11548]Electi-Card[LE]\nfor a rarer item at the [CS:E]Croagunk[CR] Swap\nShop.\n\n\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>2500</BuyPrice>
+		<SellPrice>125</SellPrice>
+		<Category>15</Category>
+		<SpriteID>39</SpriteID>
+		<ItemID>842</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>5</Type>
+		<Parameter>0x10A</Parameter>
+	</ExclusiveData>
+</Item>

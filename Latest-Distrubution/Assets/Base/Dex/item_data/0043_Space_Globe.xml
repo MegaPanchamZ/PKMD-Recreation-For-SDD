@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Space Globe</Name>
+			<ShortDescription>Boosts power of moves.</ShortDescription>
+			<LongDescription>The ultimate globe, it holds the power\nto pass through space and time itself.\nA held item that boosts the power of\nthe Pokémon's moves. The effect\nis a significant increase in the\npower of moves used.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9000</BuyPrice>
+		<SellPrice>1</SellPrice>
+		<Category>4</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>43</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xB</Unk1>
+		<Unk2>0xB</Unk2>
+		<Unk3>0x1</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Y-Ray Specs</Name>
+			<ShortDescription>Locates items and enemies...?</ShortDescription>
+			<LongDescription>When the leader is holding this, items\nand enemies will not appear on the map.\nIf anyone else holds this, they will be\naffected by the [LS:13724]Blinker[LE] status. It\nlooks a lot like the [LS:10729]X-Ray Specs[LE], so be\ncareful not to confuse them!\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9000</BuyPrice>
+		<SellPrice>900</SellPrice>
+		<Category>4</Category>
+		<SpriteID>13</SpriteID>
+		<ItemID>14</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x5</Param2>
+		<Param3>0x7</Param3>
+		<Unk1>0x2</Unk1>
+		<Unk2>0x1</Unk2>
+		<Unk3>0x21</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

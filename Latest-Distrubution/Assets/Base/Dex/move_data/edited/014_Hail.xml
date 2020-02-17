@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Move gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky move data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Hail</Name>
+			<Category>"Basic Information"[CS:E][BAR][CR]\nChanges the floor's weather to a [LS:2656]Hail[LE]\ncondition.\n\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\nDetailed Information:[CLUM_SET:108][M:B20]\n[C]\n"Detailed Information"[CS:E][BAR][CR]\nRange:[CLUM_SET:36] Floor\nType:[CLUM_SET:36] Ice/Other\nHit Ratio[CLUM_SET:54]:[CLUM_SET:62][move_hit_ratio]\nPower[CLUM_SET:54]:[CLUM_SET:62][move_power]\n\n\n\nBasic Information:[CLUM_SET:100][M:B20]</Category>
+		</English>
+	</Strings>
+	<!--Move data from waza_p.bin-->
+	<Data>
+		<BasePower>0</BasePower>
+		<Type>6</Type>
+		<Category>2</Category>
+		<Unk4>115</Unk4>
+		<Unk5>48</Unk5>
+		<BasePP>13</BasePP>
+		<Unk6>15</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>125</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>0</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>0</Unk17>
+		<Unk18>24</Unk18>
+		<MoveID>14</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+	<!--Move data from waza_p2.bin-->
+	<Data>
+		<BasePower>0</BasePower>
+		<Type>6</Type>
+		<Category>2</Category>
+		<Unk4>115</Unk4>
+		<Unk5>48</Unk5>
+		<BasePP>13</BasePP>
+		<Unk6>15</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>125</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>0</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>0</Unk17>
+		<Unk18>24</Unk18>
+		<MoveID>14</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+</Move>

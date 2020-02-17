@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Fight Gem</Name>
+			<ShortDescription>Fighting-type-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3]\nItem for: Fighting-type Pokémon\nDuring a [LS:2646]Clear[LE] condition, boosts the\n[CS:E]Movement Speed[CR] of Fighting-type\nPokémon by 1 level.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\nFighting-type Pokémon.\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\nSwap an [LS:11235]Orange Silk[LE] and a\n[LS:11236]Courage Dust[LE] for a [CS:Z]Fight Gem[CR] at the\n[CS:E]Croagunk[CR] Swap Shop.\n\nSee what happens if you collect all\nthree of these items!\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9500</BuyPrice>
+		<SellPrice>350</SellPrice>
+		<Category>15</Category>
+		<SpriteID>49</SpriteID>
+		<ItemID>532</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x5</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>3</Type>
+		<Parameter>0x7</Parameter>
+	</ExclusiveData>
+</Item>

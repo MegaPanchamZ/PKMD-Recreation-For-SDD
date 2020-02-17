@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Move gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky move data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Fake Out</Name>
+			<Category>"Basic Information"[CS:E][BAR][CR]\nInflicts damage on a target up to 2 tiles\naway. It may also afflict the targeted\nenemy with a [LS:13596]Cringe[LE] status condition,\nmaking it incapable of attacking or\nusing moves.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\nDetailed Information:[CLUM_SET:108][M:B20]\n[C]\n"Detailed Information"[CS:E][BAR][CR]\nRange:[CLUM_SET:36] Enemy up to 2 tiles away\nType:[CLUM_SET:36] Normal/Physical\nHit Ratio[CLUM_SET:54]:[CLUM_SET:62][move_hit_ratio]\nPower[CLUM_SET:54]:[CLUM_SET:62][move_power]\n\n\n\nBasic Information:[CLUM_SET:100][M:B20]</Category>
+		</English>
+	</Strings>
+	<!--Move data from waza_p.bin-->
+	<Data>
+		<BasePower>8</BasePower>
+		<Type>1</Type>
+		<Category>0</Category>
+		<Unk4>64</Unk4>
+		<Unk5>64</Unk5>
+		<BasePP>12</BasePP>
+		<Unk6>20</Unk6>
+		<Unk7>100</Unk7>
+		<Accuracy>80</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>99</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>1</Unk17>
+		<Unk18>13</Unk18>
+		<MoveID>226</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+	<!--Move data from waza_p2.bin-->
+	<Data>
+		<BasePower>8</BasePower>
+		<Type>1</Type>
+		<Category>0</Category>
+		<Unk4>64</Unk4>
+		<Unk5>64</Unk5>
+		<BasePP>12</BasePP>
+		<Unk6>20</Unk6>
+		<Unk7>100</Unk7>
+		<Accuracy>80</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>99</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>1</Unk17>
+		<Unk18>13</Unk18>
+		<MoveID>226</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+</Move>

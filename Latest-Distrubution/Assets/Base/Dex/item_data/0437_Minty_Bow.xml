@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Minty Bow</Name>
+			<ShortDescription>A bow radiating aura energy.</ShortDescription>
+			<LongDescription>A mint-colored bow with an energetic\naura. When held, this bow slightly\nboosts the Pokémon's [CS:E]Attack[CR],\n[CS:E]Special Attack[CR], [CS:E]Defense[CR], and \n[CS:E]Special Defense[CR].</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9500</BuyPrice>
+		<SellPrice>350</SellPrice>
+		<Category>4</Category>
+		<SpriteID>53</SpriteID>
+		<ItemID>437</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x5</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

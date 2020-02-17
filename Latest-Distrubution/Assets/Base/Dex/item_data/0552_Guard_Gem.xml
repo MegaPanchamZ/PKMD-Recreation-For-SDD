@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Guard Gem</Name>
+			<ShortDescription>Bug-type-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3]\nItem for: Bug-type Pokémon\nDuring a [LS:2646]Clear[LE] condition, protects\nBug-type Pokémon from status\nproblems.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\nBug-type Pokémon.\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\nSwap a [LS:11255]Green Silk[LE] and a [LS:11256]Wonder Dust[LE]\nfor a [CS:Z]Guard Gem[CR] at the [CS:E]Croagunk[CR]\nSwap Shop.\n\nSee what happens if you collect all\nthree of these items!\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9500</BuyPrice>
+		<SellPrice>350</SellPrice>
+		<Category>15</Category>
+		<SpriteID>49</SpriteID>
+		<ItemID>552</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x5</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>3</Type>
+		<Parameter>0xC</Parameter>
+	</ExclusiveData>
+</Item>

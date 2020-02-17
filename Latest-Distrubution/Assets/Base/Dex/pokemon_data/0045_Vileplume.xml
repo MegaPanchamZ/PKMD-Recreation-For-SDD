@@ -1,0 +1,1149 @@
+<?xml version="1.0"?>
+<Pokemon gameVersion="EoS">
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Vileplume</Name>
+			<Category>Flower</Category>
+		</English>
+	</Strings>
+	<!--Primary gender entity-->
+	<GenderedEntity>
+		<PokeID>45</PokeID>
+		<Unk31>25</Unk31>
+		<PokedexNumber>45</PokedexNumber>
+		<Unk1>1</Unk1>
+		<EvolutionReq>
+			<PreEvoIndex>44</PreEvoIndex>
+			<Method>3</Method>
+			<Param1>149</Param1>
+			<Param2>0</Param2>
+		</EvolutionReq>
+		<SpriteIndex>50</SpriteIndex>
+		<Gender>1</Gender>
+		<BodySize>1</BodySize>
+		<PrimaryType>4</PrimaryType>
+		<SecondaryType>8</SecondaryType>
+		<MovementType>0</MovementType>
+		<IQGroup>1</IQGroup>
+		<PrimaryAbility>74</PrimaryAbility>
+		<SecondaryAbility>0</SecondaryAbility>
+		<Bitfield>0x30</Bitfield>
+		<ExpYield>105</ExpYield>
+		<RecruitRate1>-120</RecruitRate1>
+		<RecruitRate2>-120</RecruitRate2>
+		<BaseStats>
+			<HP>31</HP>
+			<Attack>16</Attack>
+			<SpAttack>13</SpAttack>
+			<Defense>8</Defense>
+			<SpDefense>8</SpDefense>
+		</BaseStats>
+		<Weight>153</Weight>
+		<Size>35</Size>
+		<Unk17>0xa</Unk17>
+		<Unk18>0xa</Unk18>
+		<Unk19>0x1</Unk19>
+		<Unk20>0xf</Unk20>
+		<Unk21>0x64</Unk21>
+		<BasePokemonIndex>43</BasePokemonIndex>
+		<ExclusiveItems>
+			<ItemID>0</ItemID>
+			<ItemID>0</ItemID>
+			<ItemID>0</ItemID>
+			<ItemID>1041</ItemID>
+		</ExclusiveItems>
+		<Unk27>0x320</Unk27>
+		<Unk28>0xf</Unk28>
+		<Unk29>0x1e</Unk29>
+		<Unk30>0xa</Unk30>
+	</GenderedEntity>
+	<!--Secondary gender entity-->
+	<GenderedEntity>
+		<PokeID>45</PokeID>
+		<Unk31>25</Unk31>
+		<PokedexNumber>45</PokedexNumber>
+		<Unk1>1</Unk1>
+		<EvolutionReq>
+			<PreEvoIndex>644</PreEvoIndex>
+			<Method>3</Method>
+			<Param1>149</Param1>
+			<Param2>0</Param2>
+		</EvolutionReq>
+		<SpriteIndex>50</SpriteIndex>
+		<Gender>2</Gender>
+		<BodySize>1</BodySize>
+		<PrimaryType>4</PrimaryType>
+		<SecondaryType>8</SecondaryType>
+		<MovementType>0</MovementType>
+		<IQGroup>1</IQGroup>
+		<PrimaryAbility>74</PrimaryAbility>
+		<SecondaryAbility>0</SecondaryAbility>
+		<Bitfield>0x30</Bitfield>
+		<ExpYield>105</ExpYield>
+		<RecruitRate1>-120</RecruitRate1>
+		<RecruitRate2>-120</RecruitRate2>
+		<BaseStats>
+			<HP>31</HP>
+			<Attack>16</Attack>
+			<SpAttack>13</SpAttack>
+			<Defense>8</Defense>
+			<SpDefense>8</SpDefense>
+		</BaseStats>
+		<Weight>153</Weight>
+		<Size>35</Size>
+		<Unk17>0xa</Unk17>
+		<Unk18>0xa</Unk18>
+		<Unk19>0x1</Unk19>
+		<Unk20>0xf</Unk20>
+		<Unk21>0x64</Unk21>
+		<BasePokemonIndex>43</BasePokemonIndex>
+		<ExclusiveItems>
+			<ItemID>0</ItemID>
+			<ItemID>0</ItemID>
+			<ItemID>0</ItemID>
+			<ItemID>1041</ItemID>
+		</ExclusiveItems>
+		<Unk27>0x320</Unk27>
+		<Unk28>0xf</Unk28>
+		<Unk29>0x1e</Unk29>
+		<Unk30>0xa</Unk30>
+	</GenderedEntity>
+	<!--Moveset from waza_p.bin-->
+	<Moveset>
+		<!--Learns 6 move(s)-->
+		<LevelUpMoves>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>15</MoveID>
+			</Learn>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>124</MoveID>
+			</Learn>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>199</MoveID>
+			</Learn>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>320</MoveID>
+			</Learn>
+			<Learn>
+				<Level>53</Level>
+				<MoveID>253</MoveID>
+			</Learn>
+			<Learn>
+				<Level>65</Level>
+				<MoveID>151</MoveID>
+			</Learn>
+		</LevelUpMoves>
+		<!--Has 0 egg move(s)-->
+		<EggMoves />
+		<!--Can learn 32 HM/TM move(s)-->
+		<HmTmMoves>
+			<MoveID>18</MoveID>
+			<MoveID>24</MoveID>
+			<MoveID>48</MoveID>
+			<MoveID>56</MoveID>
+			<MoveID>67</MoveID>
+			<MoveID>76</MoveID>
+			<MoveID>104</MoveID>
+			<MoveID>151</MoveID>
+			<MoveID>163</MoveID>
+			<MoveID>181</MoveID>
+			<MoveID>197</MoveID>
+			<MoveID>223</MoveID>
+			<MoveID>227</MoveID>
+			<MoveID>232</MoveID>
+			<MoveID>242</MoveID>
+			<MoveID>263</MoveID>
+			<MoveID>273</MoveID>
+			<MoveID>280</MoveID>
+			<MoveID>301</MoveID>
+			<MoveID>304</MoveID>
+			<MoveID>324</MoveID>
+			<MoveID>326</MoveID>
+			<MoveID>328</MoveID>
+			<MoveID>360</MoveID>
+			<MoveID>394</MoveID>
+			<MoveID>443</MoveID>
+			<MoveID>455</MoveID>
+			<MoveID>458</MoveID>
+			<MoveID>471</MoveID>
+			<MoveID>500</MoveID>
+			<MoveID>503</MoveID>
+			<MoveID>534</MoveID>
+		</HmTmMoves>
+	</Moveset>
+	<!--Moveset from waza_p2.bin-->
+	<Moveset>
+		<!--Learns 6 move(s)-->
+		<LevelUpMoves>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>15</MoveID>
+			</Learn>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>124</MoveID>
+			</Learn>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>199</MoveID>
+			</Learn>
+			<Learn>
+				<Level>1</Level>
+				<MoveID>320</MoveID>
+			</Learn>
+			<Learn>
+				<Level>53</Level>
+				<MoveID>253</MoveID>
+			</Learn>
+			<Learn>
+				<Level>65</Level>
+				<MoveID>151</MoveID>
+			</Learn>
+		</LevelUpMoves>
+		<!--Has 0 egg move(s)-->
+		<EggMoves />
+		<!--Can learn 32 HM/TM move(s)-->
+		<HmTmMoves>
+			<MoveID>18</MoveID>
+			<MoveID>24</MoveID>
+			<MoveID>48</MoveID>
+			<MoveID>56</MoveID>
+			<MoveID>67</MoveID>
+			<MoveID>76</MoveID>
+			<MoveID>104</MoveID>
+			<MoveID>151</MoveID>
+			<MoveID>163</MoveID>
+			<MoveID>181</MoveID>
+			<MoveID>197</MoveID>
+			<MoveID>223</MoveID>
+			<MoveID>227</MoveID>
+			<MoveID>232</MoveID>
+			<MoveID>242</MoveID>
+			<MoveID>263</MoveID>
+			<MoveID>273</MoveID>
+			<MoveID>280</MoveID>
+			<MoveID>301</MoveID>
+			<MoveID>304</MoveID>
+			<MoveID>324</MoveID>
+			<MoveID>326</MoveID>
+			<MoveID>328</MoveID>
+			<MoveID>360</MoveID>
+			<MoveID>394</MoveID>
+			<MoveID>443</MoveID>
+			<MoveID>455</MoveID>
+			<MoveID>458</MoveID>
+			<MoveID>471</MoveID>
+			<MoveID>500</MoveID>
+			<MoveID>503</MoveID>
+			<MoveID>534</MoveID>
+		</HmTmMoves>
+	</Moveset>
+	<!--Stats growth and exp requirements-->
+	<StatsGrowth>
+		<!--Level 1-->
+		<Level>
+			<RequiredExp>0</RequiredExp>
+			<HP>0</HP>
+			<Attack>0</Attack>
+			<SpAttack>0</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 2-->
+		<Level>
+			<RequiredExp>8</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 3-->
+		<Level>
+			<RequiredExp>21</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 4-->
+		<Level>
+			<RequiredExp>37</RequiredExp>
+			<HP>1</HP>
+			<Attack>0</Attack>
+			<SpAttack>0</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 5-->
+		<Level>
+			<RequiredExp>81</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 6-->
+		<Level>
+			<RequiredExp>178</RequiredExp>
+			<HP>1</HP>
+			<Attack>0</Attack>
+			<SpAttack>0</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 7-->
+		<Level>
+			<RequiredExp>277</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 8-->
+		<Level>
+			<RequiredExp>520</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 9-->
+		<Level>
+			<RequiredExp>1049</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 10-->
+		<Level>
+			<RequiredExp>1581</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 11-->
+		<Level>
+			<RequiredExp>2417</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 12-->
+		<Level>
+			<RequiredExp>4460</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 13-->
+		<Level>
+			<RequiredExp>6509</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 14-->
+		<Level>
+			<RequiredExp>10148</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 15-->
+		<Level>
+			<RequiredExp>13790</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 16-->
+		<Level>
+			<RequiredExp>17873</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 17-->
+		<Level>
+			<RequiredExp>21962</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 18-->
+		<Level>
+			<RequiredExp>26502</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 19-->
+		<Level>
+			<RequiredExp>31045</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 20-->
+		<Level>
+			<RequiredExp>35592</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 21-->
+		<Level>
+			<RequiredExp>40173</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 22-->
+		<Level>
+			<RequiredExp>45480</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 23-->
+		<Level>
+			<RequiredExp>50792</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 24-->
+		<Level>
+			<RequiredExp>56109</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 25-->
+		<Level>
+			<RequiredExp>62880</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>0</Defense>
+			<SpDefense>0</SpDefense>
+		</Level>
+		<!--Level 26-->
+		<Level>
+			<RequiredExp>71117</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 27-->
+		<Level>
+			<RequiredExp>80080</RequiredExp>
+			<HP>3</HP>
+			<Attack>2</Attack>
+			<SpAttack>2</SpAttack>
+			<Defense>2</Defense>
+			<SpDefense>2</SpDefense>
+		</Level>
+		<!--Level 28-->
+		<Level>
+			<RequiredExp>89769</RequiredExp>
+			<HP>3</HP>
+			<Attack>2</Attack>
+			<SpAttack>2</SpAttack>
+			<Defense>2</Defense>
+			<SpDefense>2</SpDefense>
+		</Level>
+		<!--Level 29-->
+		<Level>
+			<RequiredExp>100185</RequiredExp>
+			<HP>3</HP>
+			<Attack>2</Attack>
+			<SpAttack>2</SpAttack>
+			<Defense>2</Defense>
+			<SpDefense>2</SpDefense>
+		</Level>
+		<!--Level 30-->
+		<Level>
+			<RequiredExp>111326</RequiredExp>
+			<HP>3</HP>
+			<Attack>2</Attack>
+			<SpAttack>2</SpAttack>
+			<Defense>2</Defense>
+			<SpDefense>2</SpDefense>
+		</Level>
+		<!--Level 31-->
+		<Level>
+			<RequiredExp>123194</RequiredExp>
+			<HP>3</HP>
+			<Attack>2</Attack>
+			<SpAttack>2</SpAttack>
+			<Defense>2</Defense>
+			<SpDefense>2</SpDefense>
+		</Level>
+		<!--Level 32-->
+		<Level>
+			<RequiredExp>135787</RequiredExp>
+			<HP>3</HP>
+			<Attack>2</Attack>
+			<SpAttack>2</SpAttack>
+			<Defense>2</Defense>
+			<SpDefense>2</SpDefense>
+		</Level>
+		<!--Level 33-->
+		<Level>
+			<RequiredExp>150571</RequiredExp>
+			<HP>3</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 34-->
+		<Level>
+			<RequiredExp>166079</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 35-->
+		<Level>
+			<RequiredExp>182314</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 36-->
+		<Level>
+			<RequiredExp>199275</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 37-->
+		<Level>
+			<RequiredExp>216962</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 38-->
+		<Level>
+			<RequiredExp>235375</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 39-->
+		<Level>
+			<RequiredExp>254514</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 40-->
+		<Level>
+			<RequiredExp>274380</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 41-->
+		<Level>
+			<RequiredExp>294971</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 42-->
+		<Level>
+			<RequiredExp>316289</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 43-->
+		<Level>
+			<RequiredExp>338332</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 44-->
+		<Level>
+			<RequiredExp>361828</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 45-->
+		<Level>
+			<RequiredExp>386776</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 46-->
+		<Level>
+			<RequiredExp>413176</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 47-->
+		<Level>
+			<RequiredExp>441028</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 48-->
+		<Level>
+			<RequiredExp>470332</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 49-->
+		<Level>
+			<RequiredExp>501089</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 50-->
+		<Level>
+			<RequiredExp>533298</RequiredExp>
+			<HP>2</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 51-->
+		<Level>
+			<RequiredExp>566959</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 52-->
+		<Level>
+			<RequiredExp>602072</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 53-->
+		<Level>
+			<RequiredExp>638383</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 54-->
+		<Level>
+			<RequiredExp>674701</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 55-->
+		<Level>
+			<RequiredExp>711027</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 56-->
+		<Level>
+			<RequiredExp>747360</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 57-->
+		<Level>
+			<RequiredExp>783701</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 58-->
+		<Level>
+			<RequiredExp>820048</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 59-->
+		<Level>
+			<RequiredExp>856403</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 60-->
+		<Level>
+			<RequiredExp>892765</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 61-->
+		<Level>
+			<RequiredExp>929134</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 62-->
+		<Level>
+			<RequiredExp>965511</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 63-->
+		<Level>
+			<RequiredExp>1001895</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 64-->
+		<Level>
+			<RequiredExp>1038286</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 65-->
+		<Level>
+			<RequiredExp>1074685</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 66-->
+		<Level>
+			<RequiredExp>1111090</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 67-->
+		<Level>
+			<RequiredExp>1147503</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 68-->
+		<Level>
+			<RequiredExp>1183923</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 69-->
+		<Level>
+			<RequiredExp>1220351</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 70-->
+		<Level>
+			<RequiredExp>1256785</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 71-->
+		<Level>
+			<RequiredExp>1293228</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 72-->
+		<Level>
+			<RequiredExp>1329677</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 73-->
+		<Level>
+			<RequiredExp>1366133</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 74-->
+		<Level>
+			<RequiredExp>1402597</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 75-->
+		<Level>
+			<RequiredExp>1439068</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 76-->
+		<Level>
+			<RequiredExp>1475546</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 77-->
+		<Level>
+			<RequiredExp>1512032</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 78-->
+		<Level>
+			<RequiredExp>1548525</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 79-->
+		<Level>
+			<RequiredExp>1585025</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 80-->
+		<Level>
+			<RequiredExp>1621532</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 81-->
+		<Level>
+			<RequiredExp>1658047</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 82-->
+		<Level>
+			<RequiredExp>1694568</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 83-->
+		<Level>
+			<RequiredExp>1731097</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 84-->
+		<Level>
+			<RequiredExp>1767634</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 85-->
+		<Level>
+			<RequiredExp>1804178</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 86-->
+		<Level>
+			<RequiredExp>1840728</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 87-->
+		<Level>
+			<RequiredExp>1877286</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 88-->
+		<Level>
+			<RequiredExp>1913852</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 89-->
+		<Level>
+			<RequiredExp>1950424</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 90-->
+		<Level>
+			<RequiredExp>1987004</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 91-->
+		<Level>
+			<RequiredExp>2023592</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 92-->
+		<Level>
+			<RequiredExp>2060186</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 93-->
+		<Level>
+			<RequiredExp>2096788</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 94-->
+		<Level>
+			<RequiredExp>2133397</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 95-->
+		<Level>
+			<RequiredExp>2170013</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 96-->
+		<Level>
+			<RequiredExp>2206636</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 97-->
+		<Level>
+			<RequiredExp>2243267</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 98-->
+		<Level>
+			<RequiredExp>2279905</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 99-->
+		<Level>
+			<RequiredExp>2316551</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+		<!--Level 100-->
+		<Level>
+			<RequiredExp>2353246</RequiredExp>
+			<HP>1</HP>
+			<Attack>1</Attack>
+			<SpAttack>1</SpAttack>
+			<Defense>1</Defense>
+			<SpDefense>1</SpDefense>
+		</Level>
+	</StatsGrowth>
+</Pokemon>

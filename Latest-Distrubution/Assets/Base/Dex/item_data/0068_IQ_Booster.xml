@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>IQ Booster</Name>
+			<ShortDescription>IQ steadily increases.</ShortDescription>
+			<LongDescription>A held item that occasionally boosts\nthe Pokémon's IQ as it moves\nbetween floors. Its effectiveness\nvaries based on the dungeon.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>5100</BuyPrice>
+		<SellPrice>510</SellPrice>
+		<Category>4</Category>
+		<SpriteID>10</SpriteID>
+		<ItemID>68</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x5</Unk1>
+		<Unk2>0x3</Unk2>
+		<Unk3>0x1</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

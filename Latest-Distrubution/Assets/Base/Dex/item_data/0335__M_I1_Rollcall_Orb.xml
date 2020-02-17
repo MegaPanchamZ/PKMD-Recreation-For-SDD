@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I1]Rollcall Orb</Name>
+			<ShortDescription>Summons team members.</ShortDescription>
+			<LongDescription>A warping item that draws all team\nmembers to the user.\n\n\n\n\n[BAR]\nRange:[CLUM_SET:36] All team members on floor</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>150</BuyPrice>
+		<SellPrice>30</SellPrice>
+		<Category>9</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>335</ItemID>
+		<Param1>0x186</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x83</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Time Shield</Name>
+			<ShortDescription>[CS:K]Dialga[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: [CS:K]Dialga[CR]\nHalves the damage the Pokémon takes\nfrom moves and attacks.\nKeep it in the Treasure Bag to give its\nbenefit to the team's [CS:K]Dialga[CR].\n[C]\nIt is among the rarest of items,\ndedicated exclusively to [CS:K]Dialga[CR],\nwho is rumored to slumber silently\nwithin some dungeon.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>5000</BuyPrice>
+		<SellPrice>150</SellPrice>
+		<Category>15</Category>
+		<SpriteID>46</SpriteID>
+		<ItemID>498</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xA</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>8</Type>
+		<Parameter>0x20D</Parameter>
+	</ExclusiveData>
+</Item>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Shiny Box</Name>
+			<ShortDescription>There is something inside!</ShortDescription>
+			<LongDescription>A box that sparkles and shines.\nIt likely contains something but won't\ngive up its secrets easily. Take it to\n[CS:N]Xatu[CR] in Treasure Town for appraisal.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>8000</BuyPrice>
+		<SellPrice>200</SellPrice>
+		<Category>14</Category>
+		<SpriteID>19</SpriteID>
+		<ItemID>372</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x3</Unk1>
+		<Unk2>0xA</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

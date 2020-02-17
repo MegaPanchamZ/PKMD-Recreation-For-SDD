@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Slip Seed</Name>
+			<ShortDescription>Induces sleep...?</ShortDescription>
+			<LongDescription>A food item that gives the [LS:13720]Slip[LE]\nstatus, where it is possible to walk\non water. It also somewhat fills the\nPokémon's [CS:E]Belly[CR]. It is a Lookalike Item\nfor the [LS:10789]Sleep Seed[LE], but you'll be\npleasantly surprised when you make\na mistake on this one!\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>70</BuyPrice>
+		<SellPrice>35</SellPrice>
+		<Category>2</Category>
+		<SpriteID>14</SpriteID>
+		<ItemID>106</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xD</Unk1>
+		<Unk2>0x4</Unk2>
+		<Unk3>0xC1</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

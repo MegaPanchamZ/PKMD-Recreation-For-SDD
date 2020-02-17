@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<Pokemon gameVersion="EoS">
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Mama</Name>
+			<Category>??????????</Category>
+		</English>
+	</Strings>
+	<!--Primary gender entity-->
+	<GenderedEntity>
+		<PokeID>495</PokeID>
+		<Unk31>22</Unk31>
+		<PokedexNumber>40</PokedexNumber>
+		<Unk1>1</Unk1>
+		<EvolutionReq>
+			<PreEvoIndex>39</PreEvoIndex>
+			<Method>3</Method>
+			<Param1>145</Param1>
+			<Param2>0</Param2>
+		</EvolutionReq>
+		<SpriteIndex>42</SpriteIndex>
+		<Gender>2</Gender>
+		<BodySize>1</BodySize>
+		<PrimaryType>1</PrimaryType>
+		<SecondaryType>0</SecondaryType>
+		<MovementType>0</MovementType>
+		<IQGroup>1</IQGroup>
+		<PrimaryAbility>68</PrimaryAbility>
+		<SecondaryAbility>0</SecondaryAbility>
+		<Bitfield>0x30</Bitfield>
+		<ExpYield>87</ExpYield>
+		<RecruitRate1>-120</RecruitRate1>
+		<RecruitRate2>-120</RecruitRate2>
+		<BaseStats>
+			<HP>22</HP>
+			<Attack>17</Attack>
+			<SpAttack>18</SpAttack>
+			<Defense>6</Defense>
+			<SpDefense>6</SpDefense>
+		</BaseStats>
+		<Weight>153</Weight>
+		<Size>34</Size>
+		<Unk17>0xa</Unk17>
+		<Unk18>0xa</Unk18>
+		<Unk19>0x1</Unk19>
+		<Unk20>0x8</Unk20>
+		<Unk21>0x64</Unk21>
+		<BasePokemonIndex>174</BasePokemonIndex>
+		<ExclusiveItems>
+			<ItemID>790</ItemID>
+			<ItemID>791</ItemID>
+			<ItemID>792</ItemID>
+			<ItemID>793</ItemID>
+		</ExclusiveItems>
+		<Unk27>0x2ee</Unk27>
+		<Unk28>0x15</Unk28>
+		<Unk29>0x1b</Unk29>
+		<Unk30>0x1c</Unk30>
+	</GenderedEntity>
+	<!--Moveset from waza_p.bin-->
+	<Moveset>
+		<!--Learns 0 move(s)-->
+		<LevelUpMoves />
+		<!--Has 0 egg move(s)-->
+		<EggMoves />
+		<!--Can learn 0 HM/TM move(s)-->
+		<HmTmMoves />
+	</Moveset>
+	<!--Moveset from waza_p2.bin-->
+	<Moveset>
+		<!--Learns 0 move(s)-->
+		<LevelUpMoves />
+		<!--Has 0 egg move(s)-->
+		<EggMoves />
+		<!--Can learn 0 HM/TM move(s)-->
+		<HmTmMoves />
+	</Moveset>
+	<!--Stats growth and exp requirements-->
+	<StatsGrowth />
+</Pokemon>

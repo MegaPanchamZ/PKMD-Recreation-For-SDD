@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Steel Globe</Name>
+			<ShortDescription>Steel-type-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: Steel-type Pokémon\nPrevents Ground-type moves from\ndamaging Steel-type Pokémon.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\nSteel-type Pokémon.\n[C]\nYou can get a [CS:Z]Steel Globe[CR] at the\n[CS:E]Croagunk[CR] Swap Shop by swapping:\nan [LS:11275]Iron Silk[LE], a [LS:11276]Steel Dust[LE],\nand a [LS:11277]Metal Gem[LE]. That's the easy way!\n\nAn item with a [M:S3][M:S3][M:S3]-rarity rating is\nvery hard to get. It's beyond valuable!\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9500</BuyPrice>
+		<SellPrice>350</SellPrice>
+		<Category>15</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>573</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x4</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>4</Type>
+		<Parameter>0x11</Parameter>
+	</ExclusiveData>
+</Item>

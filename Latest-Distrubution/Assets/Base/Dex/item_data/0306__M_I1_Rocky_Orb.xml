@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I1]Rocky Orb</Name>
+			<ShortDescription>Inflicts damage.</ShortDescription>
+			<LongDescription>A weapon item that inflicts damage on\nthe target. It also reduces the target's\n[CS:E]Movement Speed[CR] by 1 level.\n\n\n\n[BAR]\nRange:[CLUM_SET:36] Enemy in front</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>150</BuyPrice>
+		<SellPrice>30</SellPrice>
+		<Category>9</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>306</ItemID>
+		<Param1>0x49</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

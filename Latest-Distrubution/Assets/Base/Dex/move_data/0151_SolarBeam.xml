@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Move gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky move data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>SolarBeam</Name>
+			<Category>"Basic Information"[CS:E][BAR][CR]\nGives the user a [LS:13614]SolarBeam[LE] status,\nwhich causes the Pokémon to charge\npower for 1 turn, then try a powerful\nattack on the next turn. During a [LS:2648]Sunny[LE]\ncondition, it charges for an immediate\nattack. You can't [LS:13762]link[LE] this move.\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\nDetailed Information:[CLUM_SET:108][M:B20]\n[C]\n"Detailed Information"[CS:E][BAR][CR]\nRange:[CLUM_SET:36] Enemy in front, cuts corners\nType:[CLUM_SET:36] Grass/Special\nHit Ratio[CLUM_SET:54]:[CLUM_SET:62][move_hit_ratio]\nPower[CLUM_SET:54]:[CLUM_SET:62][move_power]\n\n\n\nBasic Information:[CLUM_SET:100][M:B20]</Category>
+		</English>
+	</Strings>
+	<!--Move data from waza_p.bin-->
+	<Data>
+		<BasePower>24</BasePower>
+		<Type>4</Type>
+		<Category>1</Category>
+		<Unk4>116</Unk4>
+		<Unk5>128</Unk5>
+		<BasePP>9</BasePP>
+		<Unk6>15</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>100</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>99</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>1</Unk17>
+		<Unk18>28</Unk18>
+		<MoveID>151</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+	<!--Move data from waza_p2.bin-->
+	<Data>
+		<BasePower>24</BasePower>
+		<Type>4</Type>
+		<Category>1</Category>
+		<Unk4>116</Unk4>
+		<Unk5>128</Unk5>
+		<BasePP>9</BasePP>
+		<Unk6>15</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>100</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>99</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>1</Unk17>
+		<Unk18>28</Unk18>
+		<MoveID>151</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+</Move>

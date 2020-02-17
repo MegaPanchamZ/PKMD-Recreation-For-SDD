@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I1]Rebound Orb</Name>
+			<ShortDescription>Confers Mini Counter status.</ShortDescription>
+			<LongDescription>An item that changes the user's status\nto [LS:13658]Mini Counter[LE], which enables the user\nto make [LS:13766]Physical Attacks[LE] rebound,\nreturning part of the damage.\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2][BAR]\nRange:[CLUM_SET:36] User</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>150</BuyPrice>
+		<SellPrice>30</SellPrice>
+		<Category>9</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>310</ItemID>
+		<Param1>0x16D</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

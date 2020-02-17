@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Anger Scarf</Name>
+			<ShortDescription>[CS:K]Croconaw[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: [CS:K]Croconaw[CR]\nReturns 1/4 damage from\n[LS:13766]Physical Attacks[LE] to the attacker.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\n[CS:K]Totodile[CR], [CS:K]Croconaw[CR], and [CS:K]Feraligatr[CR].\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\nYou can get an [CS:Z]Anger Scarf[CR] at the\n[CS:E]Croagunk[CR] Swap Shop by swapping:\na [LS:11363]Croco-Fang[LE], a [LS:11364]Croco-Card[LE],\nand a [LS:11365]Swirl Rock[LE]. That's the easy way!\n\nAn item with a [M:S3][M:S3][M:S3]-rarity rating is\nvery hard to get. It's beyond valuable!\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>2500</BuyPrice>
+		<SellPrice>125</SellPrice>
+		<Category>15</Category>
+		<SpriteID>37</SpriteID>
+		<ItemID>661</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xC</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>8</Type>
+		<Parameter>0x9E</Parameter>
+	</ExclusiveData>
+</Item>

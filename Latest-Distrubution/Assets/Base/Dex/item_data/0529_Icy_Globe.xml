@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Icy Globe</Name>
+			<ShortDescription>Ice-type-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: Ice-type Pokémon\nPrevents Fire-type moves from\ndamaging Ice-type Pokémon.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\nIce-type Pokémon.\n[C]\nYou can get an [CS:Z]Icy Globe[CR] at the\n[CS:E]Croagunk[CR] Swap Shop by swapping:\na [LS:11231]Clear Silk[LE], an [LS:11232]Icy Dust[LE],\nand an [LS:11233]Icy Gem[LE]. That's the easy way!\n\nAn item with a [M:S3][M:S3][M:S3]-rarity rating is\nvery hard to get. It's beyond valuable!\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9500</BuyPrice>
+		<SellPrice>350</SellPrice>
+		<Category>15</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>529</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x4</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>4</Type>
+		<Parameter>0x6</Parameter>
+	</ExclusiveData>
+</Item>

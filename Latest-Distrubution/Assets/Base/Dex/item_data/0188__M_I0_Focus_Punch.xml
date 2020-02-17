@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Focus Punch</Name>
+			<ShortDescription>Teaches [CS:M]Focus Punch[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10221]Focus Punch[LE], but\nwon't if the Pokémon knows the move.[CS:E][BAR][CR]\nMove gives the user a [LS:13620]Focus Punch[LE]\nstatus, which causes the user to charge\npower for 1 turn, then try a powerful\nattack on the next turn. You can't [LS:13762]link[LE]\nthis move.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>6000</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>188</ItemID>
+		<Param1>0x4B</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x9</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

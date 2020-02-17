@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Speed Scarf</Name>
+			<ShortDescription>[CS:K]Mudkip[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: [CS:K]Mudkip[CR]\nProtects the Pokémon from being hit by\nthrown items.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\n[CS:K]Mudkip[CR], [CS:K]Marshtomp[CR], and [CS:K]Swampert[CR].\n[C]\nYou can get a [CS:Z]Speed Scarf[CR] at the\n[CS:E]Croagunk[CR] Swap Shop by swapping:\na [LS:11395]Mudkip Mud[LE], a [LS:11396]Mudkip Card[LE],\nand a [LS:11397]Mud Jewel[LE]. That's the easy way!\n\nAn item with a [M:S3][M:S3][M:S3]-rarity rating is\nvery hard to get. It's beyond valuable!\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>2500</BuyPrice>
+		<SellPrice>125</SellPrice>
+		<Category>15</Category>
+		<SpriteID>37</SpriteID>
+		<ItemID>693</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xC</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>8</Type>
+		<Parameter>0x11E</Parameter>
+	</ExclusiveData>
+</Item>

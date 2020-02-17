@@ -1,0 +1,36 @@
+<TextureAtlas imagePath="sprites.png">
+	<SubTexture name="Attack-Down-1.png" x="54" y="60" width="26" height="24"/>
+	<SubTexture name="Attack-Left-1.png" x="0" y="81" width="26" height="28"/>
+	<SubTexture name="Attack-Right-1.png" x="58" y="0" width="26" height="28"/>
+	<SubTexture name="Attack-Up-1.png" x="0" y="0" width="30" height="22"/>
+	<SubTexture name="Hurt-Down-1.png" x="27" y="107" width="26" height="24"/>
+	<SubTexture name="Hurt-Left-1.png" x="107" y="104" width="20" height="25"/>
+	<SubTexture name="Hurt-Right-1.png" x="108" y="24" width="20" height="25"/>
+	<SubTexture name="Hurt-Up-1.png" x="107" y="54" width="24" height="24"/>
+	<SubTexture name="Idle-Down-1.png" x="85" y="0" width="24" height="23"/>
+	<SubTexture name="Idle-Down-2.png" x="107" y="79" width="24" height="24"/>
+	<SubTexture name="Idle-Left-1.png" x="54" y="85" width="26" height="28"/>
+	<SubTexture name="Idle-Left-2.png" x="81" y="85" width="25" height="30"/>
+	<SubTexture name="Idle-Right-1.png" x="54" y="31" width="26" height="28"/>
+	<SubTexture name="Idle-Right-2.png" x="81" y="54" width="25" height="30"/>
+	<SubTexture name="Idle-Up-1.png" x="81" y="29" width="26" height="24"/>
+	<SubTexture name="Idle-Up-2.png" x="27" y="81" width="26" height="25"/>
+	<SubTexture name="Sleep-1.png" x="31" y="0" width="26" height="30"/>
+	<SubTexture name="Sleep-2.png" x="0" y="23" width="27" height="29"/>
+	<SubTexture name="Walk-Down-1.png" x="85" y="0" width="24" height="23"/>
+	<SubTexture name="Walk-Down-2.png" x="54" y="114" width="24" height="22"/>
+	<SubTexture name="Walk-Down-3.png" x="85" y="0" width="24" height="23"/>
+	<SubTexture name="Walk-Down-4.png" x="107" y="79" width="24" height="24"/>
+	<SubTexture name="Walk-Left-1.png" x="54" y="85" width="26" height="28"/>
+	<SubTexture name="Walk-Left-2.png" x="0" y="53" width="26" height="27"/>
+	<SubTexture name="Walk-Left-3.png" x="54" y="85" width="26" height="28"/>
+	<SubTexture name="Walk-Left-4.png" x="81" y="85" width="25" height="30"/>
+	<SubTexture name="Walk-Right-1.png" x="54" y="31" width="26" height="28"/>
+	<SubTexture name="Walk-Right-2.png" x="27" y="53" width="26" height="27"/>
+	<SubTexture name="Walk-Right-3.png" x="54" y="31" width="26" height="28"/>
+	<SubTexture name="Walk-Right-4.png" x="81" y="54" width="25" height="30"/>
+	<SubTexture name="Walk-Up-1.png" x="81" y="29" width="26" height="24"/>
+	<SubTexture name="Walk-Up-2.png" x="0" y="110" width="26" height="22"/>
+	<SubTexture name="Walk-Up-3.png" x="81" y="29" width="26" height="24"/>
+	<SubTexture name="Walk-Up-4.png" x="27" y="81" width="26" height="25"/>
+</TextureAtlas>

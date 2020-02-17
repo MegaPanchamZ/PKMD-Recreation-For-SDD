@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Gold Thorn</Name>
+			<ShortDescription>Hurl to attack enemy.</ShortDescription>
+			<LongDescription>A brilliantly shining thorn crafted from\nsolid gold. It is a fantastically precious\nitem that gives its owner serious\nbragging rights. When hurled, it flies in\na straight line to inflict damage on any\nPokémon it hits.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>100</BuyPrice>
+		<SellPrice>10</SellPrice>
+		<Category>0</Category>
+		<SpriteID>59</SpriteID>
+		<ItemID>9</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x4</Param2>
+		<Param3>0x7</Param3>
+		<Unk1>0x3</Unk1>
+		<Unk2>0x1</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

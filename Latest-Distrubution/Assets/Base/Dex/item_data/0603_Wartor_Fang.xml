@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Wartor-Fang</Name>
+			<ShortDescription>[CS:K]Wartortle[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3]\nItem for: [CS:K]Wartortle[CR]\nSlightly boosts [CS:E]Special Attack[CR].\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\n[CS:K]Squirtle[CR], [CS:K]Wartortle[CR], and [CS:K]Blastoise[CR].\n[C]\nSwap a [LS:11307]Wartor-Claw[LE] and a\n[CS:Z]Wartor-Fang[CR] for a rarer item at the\n[CS:E]Croagunk[CR] Swap Shop.\n\n\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>2500</BuyPrice>
+		<SellPrice>125</SellPrice>
+		<Category>15</Category>
+		<SpriteID>32</SpriteID>
+		<ItemID>603</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>6</Type>
+		<Parameter>0x7</Parameter>
+	</ExclusiveData>
+</Item>

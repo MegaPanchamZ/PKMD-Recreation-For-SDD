@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Sun Ribbon</Name>
+			<ShortDescription>Needed for evolution.</ShortDescription>
+			<LongDescription>A ribbon infused with sunshine. It\nallows a certain kind of Pokémon to\nevolve.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>1000</BuyPrice>
+		<SellPrice>1</SellPrice>
+		<Category>4</Category>
+		<SpriteID>4</SpriteID>
+		<ItemID>55</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x3</Unk1>
+		<Unk2>0x3</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

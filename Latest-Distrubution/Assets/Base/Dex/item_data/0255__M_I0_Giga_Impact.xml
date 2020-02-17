@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Giga Impact</Name>
+			<ShortDescription>Teaches [CS:M]Giga Impact[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10601]Giga Impact[LE], but\nwon't if the Pokémon knows the move.[CS:E][BAR][CR]\nMove inflicts damage on the targeted\nenemy. But it also afflicts the user with\na [LS:13600]Paused[LE] status. A Pokémon with the\n[LS:13600]Paused[LE] status is incapable of action.\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>6500</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>255</ItemID>
+		<Param1>0x1C7</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x9</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

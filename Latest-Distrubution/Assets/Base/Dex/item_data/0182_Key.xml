@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Key</Name>
+			<ShortDescription>Opens a dungeon door.</ShortDescription>
+			<LongDescription>A key that unlocks a door inside a\ndungeon. Before you use a Key, be sure\nto stand before a door and face it\ndirectly.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>8000</BuyPrice>
+		<SellPrice>1</SellPrice>
+		<Category>8</Category>
+		<SpriteID>16</SpriteID>
+		<ItemID>182</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xB</Unk1>
+		<Unk2>0x8</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

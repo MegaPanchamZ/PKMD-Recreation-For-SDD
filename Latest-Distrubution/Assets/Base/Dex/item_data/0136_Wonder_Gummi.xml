@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Wonder Gummi</Name>
+			<ShortDescription>Raises IQ.</ShortDescription>
+			<LongDescription>A food item with a curious\ntexture unlike any other Gummi.\nIt permanently raises the [CS:E]IQ[CR]\nof a team member. It also somewhat\nfills the Pokémon's [CS:E]Belly[CR].</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>3500</BuyPrice>
+		<SellPrice>50</SellPrice>
+		<Category>3</Category>
+		<SpriteID>17</SpriteID>
+		<ItemID>136</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xF</Unk1>
+		<Unk2>0x4</Unk2>
+		<Unk3>0x43</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

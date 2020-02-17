@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Goggle Specs</Name>
+			<ShortDescription>Enhances vision.</ShortDescription>
+			<LongDescription>A held item that lets the Pokémon see\nhidden traps and Pokémon with [LS:13712]Invisible[LE]\nstatus.\n\n\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>3500</BuyPrice>
+		<SellPrice>350</SellPrice>
+		<Category>4</Category>
+		<SpriteID>13</SpriteID>
+		<ItemID>33</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x2</Unk1>
+		<Unk2>0xB</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

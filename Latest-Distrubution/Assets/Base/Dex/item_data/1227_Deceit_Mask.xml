@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Deceit Mask</Name>
+			<ShortDescription>[CS:K]Mawile[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: [CS:K]Mawile[CR]\nMay seal one of an enemy's known\nmoves when it attacks the Pokémon.\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\n[CS:K]Mawile[CR].\n[C]\nFinding a [CS:Z]Deceit Mask[CR] at the [CS:E]Croagunk[CR]\nSwap Shop is very lucky! Make sure you\nget it before someone else does!\nAn item with a [M:S3][M:S3][M:S3]-rarity rating is\nvery hard to get. It's beyond valuable!</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>2500</BuyPrice>
+		<SellPrice>125</SellPrice>
+		<Category>15</Category>
+		<SpriteID>43</SpriteID>
+		<ItemID>1227</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x1</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>8</Type>
+		<Parameter>0x14B</Parameter>
+	</ExclusiveData>
+</Item>

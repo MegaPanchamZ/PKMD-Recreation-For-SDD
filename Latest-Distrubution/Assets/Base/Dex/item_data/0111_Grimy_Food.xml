@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Grimy Food</Name>
+			<ShortDescription>Fills the Belly, but...</ShortDescription>
+			<LongDescription>A food item that somewhat fills the\nPokémon's [CS:E]Belly[CR] but will also inflict a\nvariety of status problems because it's\ncovered in filthy grime. Be careful of\nwhat you eat!</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>5</BuyPrice>
+		<SellPrice>1</SellPrice>
+		<Category>3</Category>
+		<SpriteID>1</SpriteID>
+		<ItemID>111</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x7</Unk1>
+		<Unk2>0x4</Unk2>
+		<Unk3>0x23</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

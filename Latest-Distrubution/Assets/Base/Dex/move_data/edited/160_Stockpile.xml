@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Move gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky move data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Stockpile</Name>
+			<Category>"Basic Information"[CS:E][BAR][CR]\nBoosts the user's [CS:E]Defense[CR] and\n[CS:E]Special Defense[CR]. It also stores\npower that can be used to boost\nthe power of the moves [LS:10391]Spit Up[LE]\nand [LS:10382]Swallow[LE]. You can stockpile\npower up to 3 times.\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\nDetailed Information:[CLUM_SET:108][M:B20]\n[C]\n"Detailed Information"[CS:E][BAR][CR]\nRange:[CLUM_SET:36] User\nType:[CLUM_SET:36] Normal/Other\nHit Ratio[CLUM_SET:54]:[CLUM_SET:62][move_hit_ratio]\nPower[CLUM_SET:54]:[CLUM_SET:62][move_power]\n\n\n\nBasic Information:[CLUM_SET:100][M:B20]</Category>
+		</English>
+	</Strings>
+	<!--Move data from waza_p.bin-->
+	<Data>
+		<BasePower>0</BasePower>
+		<Type>1</Type>
+		<Category>2</Category>
+		<Unk4>115</Unk4>
+		<Unk5>0</Unk5>
+		<BasePP>17</BasePP>
+		<Unk6>15</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>125</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>0</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>1</Unk14>
+		<Unk15>1</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>0</Unk17>
+		<Unk18>19</Unk18>
+		<MoveID>160</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+	<!--Move data from waza_p2.bin-->
+	<Data>
+		<BasePower>0</BasePower>
+		<Type>1</Type>
+		<Category>2</Category>
+		<Unk4>115</Unk4>
+		<Unk5>0</Unk5>
+		<BasePP>17</BasePP>
+		<Unk6>15</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>125</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>0</Unk11>
+		<Unk12>8</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>1</Unk14>
+		<Unk15>1</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>0</Unk17>
+		<Unk18>19</Unk18>
+		<MoveID>160</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+</Move>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Move gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky move data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Cleanse</Name>
+			<Category>[M:D1]$$$\n\n\n\nBasic Information:[CLUM_SET:100][M:B20]</Category>
+		</English>
+	</Strings>
+	<!--Move data from waza_p.bin-->
+	<Data>
+		<BasePower>2</BasePower>
+		<Type>0</Type>
+		<Category>2</Category>
+		<Unk4>115</Unk4>
+		<Unk5>255</Unk5>
+		<BasePP>17</BasePP>
+		<Unk6>8</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>100</Accuracy>
+		<Unk9>20</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>0</Unk11>
+		<Unk12>0</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>0</Unk17>
+		<Unk18>10</Unk18>
+		<MoveID>378</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+	<!--Move data from waza_p2.bin-->
+	<Data>
+		<BasePower>2</BasePower>
+		<Type>0</Type>
+		<Category>2</Category>
+		<Unk4>115</Unk4>
+		<Unk5>255</Unk5>
+		<BasePP>17</BasePP>
+		<Unk6>8</Unk6>
+		<Unk7>125</Unk7>
+		<Accuracy>100</Accuracy>
+		<Unk9>20</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>0</Unk11>
+		<Unk12>0</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>0</Unk17>
+		<Unk18>10</Unk18>
+		<MoveID>378</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+</Move>

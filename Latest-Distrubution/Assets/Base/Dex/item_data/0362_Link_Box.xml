@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Link Box</Name>
+			<ShortDescription>Links moves.</ShortDescription>
+			<LongDescription>A marvelous box that lets the user [LS:13762]link[LE]\nmoves together and delink them again.\nNote: Moves connected with a [LS:13762]link[LE]\nautomatically lose their [LS:13762]link[LE] if either\nmove's [CS:E]PP[CR] drops to zero.\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>9000</BuyPrice>
+		<SellPrice>150</SellPrice>
+		<Category>10</Category>
+		<SpriteID>10</SpriteID>
+		<ItemID>362</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xA</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

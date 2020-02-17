@@ -1,0 +1,9 @@
+<TextureAtlas imagePath="parts.png">
+	<SubTexture name="TopLeft" x="0" y="0" width="3" height="3"/>
+	<SubTexture name="TopRight" x="4" y="0" width="3" height="3"/>
+	<SubTexture name="BottomLeft" x="0" y="4" width="3" height="3"/>
+	<SubTexture name="BottomRight" x="4" y="4" width="3" height="3"/>
+	<SubTexture name="Length" x="3" y="0" width="1" height="3"/>
+	<SubTexture name="Height" x="0" y="3" width="3" height="1"/>
+	<SubTexture name="Fill" x="3" y="3" width="1" height="1"/>
+</TextureAtlas>

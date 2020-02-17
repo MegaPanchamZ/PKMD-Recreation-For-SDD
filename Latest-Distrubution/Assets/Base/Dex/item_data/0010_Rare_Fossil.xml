@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Rare Fossil</Name>
+			<ShortDescription>Throw to attack enemy.</ShortDescription>
+			<LongDescription>A wondrous fossil that seems to\nbrim with prehistoric energy. It\nis also a throwing weapon. When\nthrown, it flies high in an arc to\nclear obstacles and strike the\ntarget. It is not affected by [LS:13708]Pierce[LE]\nor [LS:13706]Long Toss[LE] statuses.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>3000</BuyPrice>
+		<SellPrice>300</SellPrice>
+		<Category>1</Category>
+		<SpriteID>55</SpriteID>
+		<ItemID>10</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x5</Param2>
+		<Param3>0x7</Param3>
+		<Unk1>0xC</Unk1>
+		<Unk2>0x1</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

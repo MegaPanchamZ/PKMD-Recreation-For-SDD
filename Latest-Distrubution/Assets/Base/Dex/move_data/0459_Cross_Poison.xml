@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<Move gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky move data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Cross Poison</Name>
+			<Category>"Basic Information"[CS:E][BAR][CR]\nInflicts damage on the target. It may\nalso afflict the targeted enemy with a\n[LS:13572]Poisoned[LE] status condition, which causes\nperiodic damage. It has a high\ncritical-hit rate.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\nDetailed Information:[CLUM_SET:108][M:B20]\n[C]\n"Detailed Information"[CS:E][BAR][CR]\nRange:[CLUM_SET:36] Enemy in front\nType:[CLUM_SET:36] Poison/Physical\nHit Ratio[CLUM_SET:54]:[CLUM_SET:62][move_hit_ratio]\nPower[CLUM_SET:54]:[CLUM_SET:62][move_power]\n\n\n\nBasic Information:[CLUM_SET:100][M:B20]</Category>
+		</English>
+	</Strings>
+	<!--Move data from waza_p.bin-->
+	<Data>
+		<BasePower>15</BasePower>
+		<Type>8</Type>
+		<Category>0</Category>
+		<Unk4>0</Unk4>
+		<Unk5>0</Unk5>
+		<BasePP>12</BasePP>
+		<Unk6>20</Unk6>
+		<Unk7>100</Unk7>
+		<Accuracy>88</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>99</Unk11>
+		<Unk12>30</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>1</Unk17>
+		<Unk18>11</Unk18>
+		<MoveID>459</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+	<!--Move data from waza_p2.bin-->
+	<Data>
+		<BasePower>15</BasePower>
+		<Type>8</Type>
+		<Category>0</Category>
+		<Unk4>0</Unk4>
+		<Unk5>0</Unk5>
+		<BasePP>12</BasePP>
+		<Unk6>20</Unk6>
+		<Unk7>100</Unk7>
+		<Accuracy>88</Accuracy>
+		<Unk9>75</Unk9>
+		<Unk10>1</Unk10>
+		<Unk11>99</Unk11>
+		<Unk12>30</Unk12>
+		<Unk13>0</Unk13>
+		<Unk14>0</Unk14>
+		<Unk15>0</Unk15>
+		<Unk16>1</Unk16>
+		<Unk17>1</Unk17>
+		<Unk18>11</Unk18>
+		<MoveID>459</MoveID>
+		<Unk19>0</Unk19>
+	</Data>
+</Move>

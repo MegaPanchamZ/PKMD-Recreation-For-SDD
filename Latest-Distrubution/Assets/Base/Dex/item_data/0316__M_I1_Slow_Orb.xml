@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I1]Slow Orb</Name>
+			<ShortDescription>Slows enemies in the room.</ShortDescription>
+			<LongDescription>A status item that reduces the\n[CS:E]Movement Speed[CR] of all enemies in the\nroom by 1 level.\n\n\n\n[BAR]\nRange:[CLUM_SET:36] Enemies in room</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>150</BuyPrice>
+		<SellPrice>30</SellPrice>
+		<Category>9</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>316</ItemID>
+		<Param1>0x173</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

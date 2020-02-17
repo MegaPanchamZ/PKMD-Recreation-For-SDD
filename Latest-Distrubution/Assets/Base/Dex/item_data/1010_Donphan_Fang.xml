@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Donphan Fang</Name>
+			<ShortDescription>[CS:K]Donphan[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3]\nItem for: [CS:K]Donphan[CR]\nSlightly raises [CS:E]Special Attack[CR].\nKeep it in the Treasure Bag to give its\nbenefit to all of these team members:\n[CS:K]Phanpy[CR] and [CS:K]Donphan[CR].\n[C]\nYou can get an even rarer item at\nthe [CS:E]Croagunk[CR] Swap Shop if you offer a\n[CS:Z]Donphan Fang[CR] and a [LS:11716]Donphan Card[LE].\n\n\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>2500</BuyPrice>
+		<SellPrice>125</SellPrice>
+		<Category>15</Category>
+		<SpriteID>32</SpriteID>
+		<ItemID>1010</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x1</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>5</Type>
+		<Parameter>0x102</Parameter>
+	</ExclusiveData>
+</Item>

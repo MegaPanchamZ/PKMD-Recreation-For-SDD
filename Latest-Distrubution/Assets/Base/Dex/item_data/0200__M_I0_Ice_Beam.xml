@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Ice Beam</Name>
+			<ShortDescription>Teaches [CS:M]Ice Beam[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10491]Ice Beam[LE], but\nwon't if the Pokémon knows the move.[CS:E][BAR][CR]\nMove inflicts damage on the target,\neven at a distance. It may also afflict\nthe targeted enemy with a [LS:13580]Frozen[LE] status\ncondition. A Pokémon with the [LS:13580]Frozen[LE]\nstatus is incapable of action.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>8000</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>200</ItemID>
+		<Param1>0x159</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Via Seed</Name>
+			<ShortDescription>Minimizes Def. and Sp. Def.?</ShortDescription>
+			<LongDescription>A food item that causes the user to\nsay, "See ya!" and warp elsewhere\non the floor. It also somewhat fills the\nPokémon's [CS:E]Belly[CR]. It is a Lookalike Item\nfor the [LS:10799]Vile Seed[LE], so be careful!\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>350</BuyPrice>
+		<SellPrice>50</SellPrice>
+		<Category>2</Category>
+		<SpriteID>14</SpriteID>
+		<ItemID>107</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0xD</Unk1>
+		<Unk2>0x4</Unk2>
+		<Unk3>0x21</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Chrono Veil</Name>
+			<ShortDescription>[CS:K]Celebi[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: [CS:K]Celebi[CR]\nRestores 1 [CS:E]PP[CR] to all of the Pokémon's\nmoves when it reaches a new floor.\nKeep it in the Treasure Bag to give its\nbenefit to the team's [CS:K]Celebi[CR].\n[C]\nIt is among the rarest of items,\ndedicated exclusively to [CS:K]Celebi[CR],\nwho is rumored to slumber silently\nwithin some dungeon.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>5000</BuyPrice>
+		<SellPrice>150</SellPrice>
+		<Category>15</Category>
+		<SpriteID>56</SpriteID>
+		<ItemID>482</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x2</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>8</Type>
+		<Parameter>0x116</Parameter>
+	</ExclusiveData>
+</Item>

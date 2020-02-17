@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Plasma Veil</Name>
+			<ShortDescription>[CS:K]Rotom[CR]-specific item.</ShortDescription>
+			<LongDescription>Rarity: [M:S3][M:S3][M:S3]\nItem for: [CS:K]Rotom[CR]\nMay afflict attacking enemies with a\n[LS:13576]Paralysis[LE] status condition.\nKeep it in the Treasure Bag to give its\nbenefit to the team's [CS:K]Rotom[CR].\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\nIt is among the rarest of items,\ndedicated exclusively to [CS:K]Rotom[CR],\nwho is rumored to slumber silently\nwithin some dungeon.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>5000</BuyPrice>
+		<SellPrice>150</SellPrice>
+		<Category>15</Category>
+		<SpriteID>56</SpriteID>
+		<ItemID>494</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x2</Unk1>
+		<Unk2>0x0</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+	<!--Data for exclusive items. See http://projectpokemon.org/wiki/Pmd2_item_s_p.bin for reference.-->
+	<ExclusiveData>
+		<Type>8</Type>
+		<Parameter>0x209</Parameter>
+	</ExclusiveData>
+</Item>

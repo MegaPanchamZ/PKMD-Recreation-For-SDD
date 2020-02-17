@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Dive</Name>
+			<ShortDescription>Teaches [CS:M]Dive[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10302]Dive[LE]. \nIt can't be used if the move is known.[CS:E][BAR][CR]\nMove gives the user a [LS:13628]Diving[LE] status,\nwhich causes the user to charge power\nfor 1 turn, then try a powerful attack\non the next turn. You can't [LS:13762]link[LE] this\nmove and can use it only on water.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>6500</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>261</ItemID>
+		<Param1>0x9C</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

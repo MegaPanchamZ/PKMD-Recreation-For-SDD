@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Gold Ribbon</Name>
+			<ShortDescription>Can be sold for big money!</ShortDescription>
+			<LongDescription>An item that has no effect even if held\nby a Pokémon. It can be sold for a good\nprice.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>4000</BuyPrice>
+		<SellPrice>2000</SellPrice>
+		<Category>4</Category>
+		<SpriteID>4</SpriteID>
+		<ItemID>32</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x4</Unk1>
+		<Unk2>0x3</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

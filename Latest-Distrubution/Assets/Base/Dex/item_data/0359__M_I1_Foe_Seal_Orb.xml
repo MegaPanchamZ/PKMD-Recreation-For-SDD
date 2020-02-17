@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I1]Foe-Seal Orb</Name>
+			<ShortDescription>Makes enemies pause.</ShortDescription>
+			<LongDescription>An item that afflicts all enemies in the\nroom with a [LS:13600]Paused[LE] status condition.\nA Pokémon with the [LS:13600]Paused[LE] condition\nstops moving and simply observes\nwhat's going on for a while.\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2][BAR]\nRange:[CLUM_SET:36] Enemies in room</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>150</BuyPrice>
+		<SellPrice>30</SellPrice>
+		<Category>9</Category>
+		<SpriteID>15</SpriteID>
+		<ItemID>359</ItemID>
+		<Param1>0x1AD</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

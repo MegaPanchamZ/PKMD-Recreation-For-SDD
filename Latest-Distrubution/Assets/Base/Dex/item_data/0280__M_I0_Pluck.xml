@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Pluck</Name>
+			<ShortDescription>Teaches [CS:M]Pluck[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10636]Pluck[LE], but\nwon't if the Pokémon knows the move.[CS:E][BAR][CR]\nMove inflicts damage on the target. If\nthe enemy is holding an item such as \na Berry, the user steals it and uses it.\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>6500</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>280</ItemID>
+		<Param1>0x1EA</Param1>
+		<Param2>0x12</Param2>
+		<Param3>0x12</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x9</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

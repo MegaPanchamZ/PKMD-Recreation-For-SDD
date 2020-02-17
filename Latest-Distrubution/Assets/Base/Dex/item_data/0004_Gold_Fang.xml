@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Gold Fang</Name>
+			<ShortDescription>Hurl to attack enemy.</ShortDescription>
+			<LongDescription>A weapon to be hurled. When hurled, it\nflies in a straight line to inflict damage\non any Pokémon it hits.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>8</BuyPrice>
+		<SellPrice>4</SellPrice>
+		<Category>0</Category>
+		<SpriteID>0</SpriteID>
+		<ItemID>4</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x4</Param2>
+		<Param3>0x5</Param3>
+		<Unk1>0x3</Unk1>
+		<Unk2>0x1</Unk2>
+		<Unk3>0x23</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Facade</Name>
+			<ShortDescription>Teaches [CS:M]Facade[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10213]Facade[LE], but\nwon't if the Pokémon knows the move.[CS:E][BAR][CR]\nMove inflicts damage on the target and\ndouble damage if the user has a [LS:13570]Burn[LE],\n[LS:13572]Poisoned[LE], or [LS:13574]Badly Poisoned[LE] status.\n\n\n\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>6000</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>229</ItemID>
+		<Param1>0x43</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x0</Unk1>
+		<Unk2>0x9</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>Icy Flute</Name>
+			<ShortDescription>Promotes recruitment.</ShortDescription>
+			<LongDescription>An unusual flute that plays notes that\nare clear as ice, rumored to steal even\nthe iciest of hearts. When held by the\nteam leader, it is easier to recruit\ndefeated Ice-type Pokémon to the team.</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>5300</BuyPrice>
+		<SellPrice>510</SellPrice>
+		<Category>4</Category>
+		<SpriteID>7</SpriteID>
+		<ItemID>59</ItemID>
+		<Param1>0x0</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x3</Unk1>
+		<Unk2>0x3</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>

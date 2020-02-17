@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<Item gameVersion="EoS">
+	<!--Pokemon Mystery Dungeon: Explorers of Sky item data-->
+	<!--In-game text-->
+	<Strings>
+		<English>
+			<Name>[M:I0]Rock Climb</Name>
+			<ShortDescription>Teaches [CS:M]Rock Climb[CR].</ShortDescription>
+			<LongDescription>Teaches the move [LS:10687]Rock Climb[LE], but\nwon't if the Pokémon knows the move.\nIt's reusable, and it can't be used\nin a dungeon.[CS:E][BAR][CR]\nMove inflicts damage on the target. It\nmay also afflict the targeted enemy\nwith a [LS:13598]Confused[LE] status, which makes\nits movements and attacks go astray.\nSelect detail:[CLUM_SET:70][M:B4] or [M:B5]/View detail: [M:B2]\n[C]\n[equip_list]</LongDescription>
+		</English>
+	</Strings>
+	<!--The data for each items, see http://projectpokemon.org/wiki/Pmd2_item_p.bin for reference.-->
+	<Data>
+		<BuyPrice>7500</BuyPrice>
+		<SellPrice>250</SellPrice>
+		<Category>5</Category>
+		<SpriteID>8</SpriteID>
+		<ItemID>292</ItemID>
+		<Param1>0x21D</Param1>
+		<Param2>0x0</Param2>
+		<Param3>0x0</Param3>
+		<Unk1>0x3</Unk1>
+		<Unk2>0xD</Unk2>
+		<Unk3>0x3</Unk3>
+		<Unk4>0x0</Unk4>
+	</Data>
+</Item>
