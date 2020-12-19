@@ -1,5 +1,5 @@
 # PKMD-Recreation-For-SDD
-A Recreation project of my favourite childhood game PKMNMD
+A Recreation project of my favourite game PKMNMD
 
 
 Easy Way to run...
